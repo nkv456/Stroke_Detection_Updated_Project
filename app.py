@@ -79,7 +79,7 @@ def  predict(data, model_dict):
 
     
 if st.checkbox("About"):
-    st.markdown("""According to the WHO, cerebrovascular stroke is the second largest cause of death
+    st.markdown("""According to the WHO, and EU cerebrovascular stroke is the second largest cause of death
 worldwide, accounting for more than 5 million deaths in 2017 alone. Conventional detection
 methods involve physician administered exams including blood tests, angiograms, carotid
 ultrasounds, CT, and MRI scans. These neurological scans such as MRI are first of all costly, and
